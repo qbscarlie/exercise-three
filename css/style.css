@@ -4,3 +4,9 @@
 .chart {
   height: 500px;
 }
+
+.bar {
+	height: 10px;
+	margin-top: 1px;
+	background-color: blue;
+}
